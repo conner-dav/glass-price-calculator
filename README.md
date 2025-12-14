@@ -12,17 +12,6 @@ I built this for a glass business in Strand, Somerset West just outside of Cape 
 - **Professional Interface**: Clean, easy-to-use design
 - **Offline Ready**: Works without an internet connection
 
-## Installation
-
-### For Users
-
-1. Download `Glass Price Calculator Setup 1.0.0.exe`
-2. Double-click to install
-3. Follow the installation prompts
-4. Launch the app from your desktop or start menu
-
-**Note**: Windows may show a security warning since the app isn't code-signed. Click "More info" → "Run anyway" to proceed with installation.
-
 ## Usage
 
 1. **Set Your Rate**: Click the settings icon (⚙️) to set your price per square meter
